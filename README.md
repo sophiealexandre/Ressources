@@ -42,3 +42,16 @@ https://www.ruby-lang.org/en/documentation/
 
 A free masterclass to learn the basics of React: https://scrimba.com/course/glearnreact
 Another one(in French): https://fr.reactjs.org/docs/hello-world.html
+
+
+** Whimsical **
+Visual Workspace: https://whimsical.com/
+
+** Figma **
+Mock-up/prototype design. https://www.figma.com/
+
+** Sketch **
+Design toolkit. https://www.sketch.com/
+
+** Optimalworkshop **
+Platform of user research tools. https://www.optimalworkshop.com/
